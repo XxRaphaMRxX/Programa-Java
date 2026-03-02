@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args){
+
+        System.out.println("Testando commits");
+
 /*
         boolean a, b, c , d;
         a = true;
